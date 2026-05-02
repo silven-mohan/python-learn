@@ -1,0 +1,4 @@
+# This file ignores the unwanted files in the repo.
+
+# Ignore gitkeep files:
+*.gitkeep
