@@ -2,3 +2,6 @@
 
 # Ignore gitkeep files:
 *.gitkeep
+
+# Ignore vscode configs:
+.vscode/
