@@ -9,17 +9,17 @@ nrf = 1
 
 i = 1
 while i <= n:
-    nf *= 1
+    nf *= i
     i += 1
 
 i = 1
 while i <= r:
-    rf *= 1
+    rf *= i
     i += 1
 
 i = 1
 while i <= n-r:
-    nrf *= 1
+    nrf *= i
     i += 1
 
 ncr = nf/(nrf * rf)
